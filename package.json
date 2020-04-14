@@ -1,0 +1,21 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "description": "A sample Rails application that uses Hypernova to server render.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hypernova": "^1.0.0",
+    "hypernova-react": "^1.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "browserify-incremental": "^3.1.1"
+  }
+}
